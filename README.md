@@ -1,3 +1,2 @@
 # Resume
-My Resume
-adfafsdfsd
+This is my resume
